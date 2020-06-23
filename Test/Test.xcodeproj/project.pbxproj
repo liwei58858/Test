@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA2F46A324A1AA74005C63F7 /* liuzhuan.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2F46A224A1AA74005C63F7 /* liuzhuan.m */; };
 		FAA6631824A0B21400AE0D54 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FAA6631724A0B21400AE0D54 /* AppDelegate.m */; };
 		FAA6631B24A0B21400AE0D54 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FAA6631A24A0B21400AE0D54 /* SceneDelegate.m */; };
 		FAA6631E24A0B21400AE0D54 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAA6631D24A0B21400AE0D54 /* ViewController.m */; };
@@ -17,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FA2F46A124A1AA74005C63F7 /* liuzhuan.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = liuzhuan.h; sourceTree = "<group>"; };
+		FA2F46A224A1AA74005C63F7 /* liuzhuan.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = liuzhuan.m; sourceTree = "<group>"; };
 		FAA6631324A0B21400AE0D54 /* Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAA6631624A0B21400AE0D54 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FAA6631724A0B21400AE0D54 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -72,6 +75,8 @@
 				FAA6632424A0B21700AE0D54 /* LaunchScreen.storyboard */,
 				FAA6632724A0B21700AE0D54 /* Info.plist */,
 				FAA6632824A0B21700AE0D54 /* main.m */,
+				FA2F46A124A1AA74005C63F7 /* liuzhuan.h */,
+				FA2F46A224A1AA74005C63F7 /* liuzhuan.m */,
 			);
 			path = Test;
 			sourceTree = "<group>";
@@ -146,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA2F46A324A1AA74005C63F7 /* liuzhuan.m in Sources */,
 				FAA6631E24A0B21400AE0D54 /* ViewController.m in Sources */,
 				FAA6631824A0B21400AE0D54 /* AppDelegate.m in Sources */,
 				FAA6632924A0B21700AE0D54 /* main.m in Sources */,
